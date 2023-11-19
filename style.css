@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(223, 138, 26);
+}
+.list {
+	display: none;
+}
+p {
+	color: yellowgreen;
+	font-weight: 700;
+	font-size: 20px;
+}
+h1 {
+	font-size: 40px;
+	color: rgb(62, 204, 62);
+}
+button {
+	background-color: blue;
+	color: aliceblue;
+	border-radius: 5px;
+}
+img {
+	border-radius: 5px;
+}
